@@ -33,7 +33,10 @@ Building fast, clean, and reliable backend systems
 
 ## 📊 GitHub Stats
 
-![stats](https://git-wrapped.com/profiles/cer4k4)
+![stats](
+https://git-wrapped.com/profiles/cer4k4
+)
+
 
 ---
 
@@ -81,6 +84,7 @@ I use Arch Linux BTW
 ```
 
 ---
+
 
 
 
