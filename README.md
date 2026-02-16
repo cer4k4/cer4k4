@@ -1,4 +1,4 @@
-﻿# <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=false&vCenter=true&width=600&lines=Hi+I'm+cer4k4;Backend+Developer;Arch+Linux+User;Open+Source+Enthusiast" />
+﻿# <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=false&vCenter=true&width=600&lines=Hi+I'm+AkA(Ali karimi Ashini);Backend+Developer;Arch+Linux+User;Open+Source+Enthusiast" />
 
 ---
 
@@ -77,9 +77,10 @@ Status: Online 🟢
 ## ⚠ Fun Fact
 
 ```bash
-I use Arch Linux BTW U+1F60E
+I use Arch Linux BTW 
 ```
 
 ---
+
 
 
