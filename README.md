@@ -33,7 +33,7 @@ Building fast, clean, and reliable backend systems
 
 ## 📊 GitHub Stats
 
-![🙏🏻](
+![🙏🏻]( click
 https://git-wrapped.com/profiles/cer4k4)
 
 
@@ -41,13 +41,13 @@ https://git-wrapped.com/profiles/cer4k4)
 
 ## 🔥 Streak
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=cer4k4\&theme=chartreuse-dark\&hide_border=true)
+(https://github-readme-streak-stats.herokuapp.com/?user=cer4k4\&theme=chartreuse-dark\&hide_border=true)
 
 ---
 
 ## 🧪 Top Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cer4k4\&layout=compact\&theme=chartreuse-dark\&hide_border=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=cer4k4\&layout=compact\&theme=chartreuse-dark\&hide_border=true)
 
 ---
 
@@ -83,6 +83,7 @@ I use Arch Linux BTW
 ```
 
 ---
+
 
 
 
