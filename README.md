@@ -33,7 +33,8 @@ Building fast, clean, and reliable backend systems
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=cer4k4\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
+![stats](Check out my 2025 Wrapped!
+https://git-wrapped.com/profiles/cer4k4)
 
 ---
 
@@ -81,6 +82,7 @@ I use Arch Linux BTW
 ```
 
 ---
+
 
 
 
