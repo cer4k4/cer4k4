@@ -6,7 +6,7 @@
 
 ```bash
 > whoami
-cer4k4
+AkA (Ali karimi Ashini)
 
 > interests
 Backend Development, Linux, Systems, Databases
@@ -77,8 +77,9 @@ Status: Online 🟢
 ## ⚠ Fun Fact
 
 ```bash
-I use Arch Linux BTW
+I use Arch Linux BTW U+1F60E
 ```
 
 ---
+
 
